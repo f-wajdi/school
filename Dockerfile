@@ -1,4 +1,4 @@
-FROM wodby/openjdk:17-jdk-alpine
+FROM wodby/openjdk:17-alpine
 
 #expose le port de l'application Spring Boot
 EXPOSE 8082
